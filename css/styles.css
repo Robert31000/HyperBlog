@@ -1,0 +1,11 @@
+html{
+    background-color: darkgreen;
+    text-align: center;
+}
+
+#container {
+    background-color:chocolate;
+    font-size: 2.1rem;
+    font-weight: bold;
+    margin: 0 auto;
+}
